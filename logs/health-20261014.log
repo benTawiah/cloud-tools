@@ -1,0 +1,29 @@
+==============================
+  SYSTEM HEALTH CHECK REPORT
+==============================
+
+Hostname: DESKTOP-UJRMJL4
+Date: Wed Oct 14 17:22:31 CEST 2026
+Uptime: up 5 hours, 56 minutes
+
+--- CPU Load ---
+Load Average: 0.14 0.14 0.09
+
+--- Memory Usage ---
+Used: 902MB / 7851MB (11.5%)
+
+--- Disk Usage ---
+Root partition: 1% used
+Status: OK
+
+--- Top 5 Processes by Memory ---
+USER       %MEM%  COMMAND
+ben        1.8%   /home/ben/.vscode-server/bin/2a59476c9bfcb90b3ddc372c36762471b7dfad1c/node
+ben        1.7%   /home/ben/.vscode-server/bin/2a59476c9bfcb90b3ddc372c36762471b7dfad1c/node
+ben        1.4%   /home/ben/.vscode-server/bin/2a59476c9bfcb90b3ddc372c36762471b7dfad1c/node
+ben        0.8%   /home/ben/.vscode-server/bin/2a59476c9bfcb90b3ddc372c36762471b7dfad1c/node
+ben        0.7%   /home/ben/.vscode-server/bin/2a59476c9bfcb90b3ddc372c36762471b7dfad1c/node
+
+==============================
+  Health check complete.
+==============================
